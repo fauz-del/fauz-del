@@ -19,6 +19,8 @@ I'm a passionate developer focused on building clean, responsive user interfaces
 <!-- This updates automatically as you code! -->
 <p align="left">
 <img src="https://github-readme-stats.vercel.app" alt="Fauzie's Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app" alt="Most Used Languages" />
 </p>
 
 ### 🛠️ Currently Working On
